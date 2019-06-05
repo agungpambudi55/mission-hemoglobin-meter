@@ -1,5 +1,9 @@
 '''
 Created on Jun 2019
+
+Contributor :
+- Agung Pambudi <agung.pambudi5595@gmail.com>
+- Azman Latif <azman.latif@mail.ugm.ac.id>
 '''
 
 import serial
